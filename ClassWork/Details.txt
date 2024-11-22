@@ -1,0 +1,3 @@
+Web Development Bootcamp
+Educational Purpose: Teaches web development using HTML, CSS, and JavaScript. Covers responsive design and project-based learning for creating dynamic websites.
+Outcome: Build a portfolio of responsive, modern websites and gain skills required for front-end development roles.
